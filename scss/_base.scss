@@ -13,7 +13,14 @@ $font-nunito: 'Nunito', sans-serif;
     padding: 0;
 }
 
+html {
+    scrollbar-width: none;
+}
+
 body {
+    &-webkit-scrollbar {
+        display: none;
+    }
     background-color: $color-light;
 }
 
