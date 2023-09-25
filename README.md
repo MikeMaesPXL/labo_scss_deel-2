@@ -1,1 +1,1 @@
-# Startbestand labo Sass Deel 2 - About sectie
+# Oplossing labo Sass Deel 2 - About sectie
