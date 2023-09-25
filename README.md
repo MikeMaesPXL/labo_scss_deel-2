@@ -1,1 +1,1 @@
-# labo_scss_deel-2
+# Startbestand labo Sass Deel 2 - About sectie
